@@ -1,3 +1,7 @@
+java 11.0.2
+tomcat 9.0.88
+
+무한상사 전체 내용 PPT
 [무한상사 소장용.pptx](https://github.com/user-attachments/files/15755299/default.pptx)
 ![메인큰페이지](https://github.com/min2mini/muhan/assets/159765032/2e1a9d79-a2a0-4301-9488-e3fa0eb2699b)
 
