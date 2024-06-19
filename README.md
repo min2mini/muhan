@@ -23,8 +23,6 @@ java 11.0.2 <br>
 tomcat 9.0.88 <br>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer"/>
-
 
 
 ![메인큰페이지](https://github.com/min2mini/muhan/assets/159765032/2e1a9d79-a2a0-4301-9488-e3fa0eb2699b)
@@ -33,3 +31,6 @@ tomcat 9.0.88 <br>
 ![캡처2](https://github.com/min2mini/muhan/assets/159765032/077f9653-5004-4832-a435-b8338d09574d)
 ![캡처3](https://github.com/min2mini/muhan/assets/159765032/217354a9-dcde-433e-8e49-6d3a14a82799)
 ![캡처4](https://github.com/min2mini/muhan/assets/159765032/f8d26253-e894-447b-8405-773ef6265a2e)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer"/>
+
