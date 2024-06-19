@@ -15,7 +15,8 @@
 일정 기획, 관리 
 ppt 작성 
 <h3>:point_down:자세한 내용은 pdf 참고 해주세요:point_down:<h3>
- [무한상사.pdf](https://github.com/user-attachments/files/15897764/default.pdf)
+[무한상사.pdf](https://github.com/user-attachments/files/15901500/default.pdf)
+
 
 <h1>개발환경</h1>
 <img src="https://img.shields.io/badge/Spring-#6DB33F?style=for-the-badhe&logo=Spring&logoColor=white"/> 
