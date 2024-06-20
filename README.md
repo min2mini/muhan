@@ -15,10 +15,11 @@
 :bus: 프로젝트 기획, 팀원 일정 관리, ppt 작성 
 <h3>:point_down:자세한 내용은 pdf 참고 해주세요:point_down:<h3>
 [무한상사.pdf](https://github.com/user-attachments/files/15901500/default.pdf)
-
+ <br> <br> 
 <h3>개발환경</h3>
 tomcat 9.0.88 <br>
 java 11.0.2
+ <br> <br>  <br> <br> 
 
 
 
