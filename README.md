@@ -8,20 +8,20 @@
 팀원 모두 각기 다른 직무의 재직경험을 토대로 <br> 
 함께 생각하여 간편한 인트라넷을 구현해 보았습니다.<br>
 근태관리 / 결재상신 / 개인일정관리 / 회의실예약 / 공지사항 등등 기능 구현하였습니다.
- <br> <br> <br> 
+ <br> <br> 
 :zap: 담당 파트 <br>
 :calendar: 일정관리 페이지 프론트&백 100% <br>
 :runner: 회의실예약 프론트&백 30% <br>
-일정 기획, 관리 
-ppt 작성 
+:bus: 프로젝트 기획, 팀원 일정 관리, ppt 작성 
 <h3>:point_down:자세한 내용은 pdf 참고 해주세요:point_down:<h3>
 [무한상사.pdf](https://github.com/user-attachments/files/15901500/default.pdf)
 
-
-<h1>개발환경</h1>
-<img src="https://img.shields.io/badge/Spring-#6DB33F?style=for-the-badhe&logo=Spring&logoColor=white"/> 
-java 11.0.2 <br>
+<h3>개발환경</h3>
 tomcat 9.0.88 <br>
+java 11.0.2
+
+
+
 </div>
 
 
